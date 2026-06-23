@@ -1,4 +1,4 @@
-# <p align="center">DecodeLabs Internship Project: Netflix Shows and Movies Analysis</p>
+# <p align="center">DecodeLabs Internship Project: SQL Data Analysis</p>
 # <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
 
 **Tools Used:** Excel, MySQL, Tableau
